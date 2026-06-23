@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1>Hi im new of the wiki.</h1>
+<p></p>
 
-<!--
-**flama12333/flama12333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Games</h1>
+<h0>Brawl Stars</h0>
+<h0>Stats</h0>
 
-Here are some ideas to get you started:
+<p></p>
+<table class="article-table sortable mw-collapsible jquery-tablesorter mw-made-collapsible">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<thead><tr>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Brawler</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Power Level</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Gadgets</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Star Powers</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Hypercharge</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Prestige</th>
+        
+       
+        
+       
+                    
+                    
+   
+<tr class="border-bottom" style="">
+        <td style="color: red;">Janet 🚀</td>
+            <td>11</td>
+            <td>-</td>
+            <td>-</td>
+            <td>yes</td>
+            <td>1</td>
+        </tr><tr class="border-bottom" style="">
+        <td style="color: Yellow;">Mandy ♕</td>
+            <td>11</td>
+            <td>-</td>
+            <td>-</td>
+            <td>yes</td>
+            <td>1</td>
+        </tr><tr class="border-bottom" style="">
+        <td style="color: Cyan;">Starr Nova ☆</td>
+            <td>11</td>
+            <td>-</td>
+            <td>-</td>
+            <td>None</td>
+            <td>1</td>
+        </tr><tr class="border-bottom" style="">
+        <td style="color: Purple;">Shelly ✪</td>
+            <td>11</td>
+            <td>-</td>
+            <td>-</td>
+            <td>yes</td>
+            <td>1</td>
+        </tr></tbody><tfoot></tfoot></table>
