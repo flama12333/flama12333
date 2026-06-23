@@ -1,5 +1,7 @@
-<h1>Hi im new of the wiki.</h1>
+<h1>Hi im flama12333</h1> 
 <p></p>
+<h0>My interest is in preservation and emulation. I also modify the code in C++.</h0>
+
 
 <h1>Games</h1>
 <h0>Brawl Stars</h0>
