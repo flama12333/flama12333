@@ -1,5 +1,4 @@
 <h1>Hi im flama12333</h1> 
-<p></p>
 <h0>My interest is in preservation and emulation. I also modify the code in C++.</h0>
 
 
@@ -7,7 +6,7 @@
 <h0>Brawl Stars</h0>
 <h0>Stats</h0>
 
-<p></p>
+
 <table class="article-table sortable mw-collapsible jquery-tablesorter mw-made-collapsible">
 
 <thead><tr>
