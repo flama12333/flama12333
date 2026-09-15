@@ -44,7 +44,8 @@
             <td>2</td>
             <td>yes</td>
             <td>2</td>
-        </tr><tr class="border-bottom" style="">
+               </tr><tr class="border-bottom" style="">
+         
         <td style="color: Purple;">Shelly ✪</td>
             <td>11</td>
             <td>2</td>
@@ -52,8 +53,8 @@
             <td>yes</td>
             <td>1</td>
 
-                </tr><tr class="border-bottom" style="">
-        <td style="color: Purple;">Wendy ⛨</td>
+        </tr><tr class="border-bottom" style="">
+        <td style="color: Orange;">Wendy ⛨</td>
             <td>11</td>
             <td>2</td>
             <td>2</td>
