@@ -42,7 +42,7 @@
             <td>11</td>
             <td>-</td>
             <td>-</td>
-            <td>None</td>
+            <td>yes</td>
             <td>1</td>
         </tr><tr class="border-bottom" style="">
         <td style="color: Purple;">Shelly ✪</td>
