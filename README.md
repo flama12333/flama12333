@@ -51,9 +51,8 @@
             <td>2</td>
             <td>yes</td>
             <td>1</td>
-
         </tr><tr class="border-bottom" style="">
-<td style="color: Orange;">Wendy ⛨</td>
+         <td style="color: Orange;">Wendy ⛨</td>
             <td>11</td>
             <td>2</td>
             <td>2</td>
