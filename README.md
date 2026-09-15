@@ -26,29 +26,29 @@
 <tr class="border-bottom" style="">
         <td style="color: red;">Janet 🚀</td>
             <td>11</td>
-            <td>-</td>
-            <td>-</td>
+            <td>2</td>
+            <td>2</td>
             <td>yes</td>
             <td>1</td>
         </tr><tr class="border-bottom" style="">
         <td style="color: Yellow;">Mandy ♕</td>
             <td>11</td>
-            <td>-</td>
-            <td>-</td>
+            <td>2</td>
+            <td>2</td>
             <td>yes</td>
             <td>1</td>
         </tr><tr class="border-bottom" style="">
         <td style="color: Cyan;">Starr Nova ☆</td>
             <td>11</td>
-            <td>-</td>
-            <td>-</td>
+            <td>2</td>
+            <td>2</td>
             <td>yes</td>
             <td>1</td>
         </tr><tr class="border-bottom" style="">
         <td style="color: Purple;">Shelly ✪</td>
             <td>11</td>
-            <td>-</td>
-            <td>-</td>
+            <td>2</td>
+            <td>2</td>
             <td>yes</td>
             <td>1</td>
         </tr></tbody><tfoot></tfoot></table>
